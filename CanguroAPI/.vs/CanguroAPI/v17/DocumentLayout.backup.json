@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DJR DEV\\Prueba Tecnica Canguro\\CanguroAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}|CanguroCRUD.Client\\CanguroCRUD.Client.csproj|d:\\djr dev\\prueba tecnica canguro\\canguroapi\\cangurocrud.client\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}|CanguroCRUD.Client\\CanguroCRUD.Client.csproj|solutionrelative:cangurocrud.client\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}|CanguroCRUD.Client\\CanguroCRUD.Client.csproj|d:\\djr dev\\prueba tecnica canguro\\canguroapi\\cangurocrud.client\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}|CanguroCRUD.Client\\CanguroCRUD.Client.csproj|solutionrelative:cangurocrud.client\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalController.cs",
+              "DocumentMoniker": "D:\\DJR DEV\\Prueba Tecnica Canguro\\CanguroAPI\\CanguroCRUD.Client\\Controllers\\SucursalController.cs",
+              "RelativeDocumentMoniker": "CanguroCRUD.Client\\Controllers\\SucursalController.cs",
+              "ToolTip": "D:\\DJR DEV\\Prueba Tecnica Canguro\\CanguroAPI\\CanguroCRUD.Client\\Controllers\\SucursalController.cs",
+              "RelativeToolTip": "CanguroCRUD.Client\\Controllers\\SucursalController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:52:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DJR DEV\\Prueba Tecnica Canguro\\CanguroAPI\\CanguroCRUD.Client\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CanguroCRUD.Client\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DJR DEV\\Prueba Tecnica Canguro\\CanguroAPI\\CanguroCRUD.Client\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CanguroCRUD.Client\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:28:27.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

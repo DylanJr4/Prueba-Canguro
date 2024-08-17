@@ -1,0 +1,38 @@
+﻿@model SucursalViewModel
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h2>Editar Sucursal</h2>
+
+        <!-- Formulario para editar una sucursal -->
+        <form asp-action="Edit" method="post">
+            <input type="hidden" name="IdSucursal" value="@Model.Sucursal.IdSucursal" />
+
+            <div class="form-group">
+                <label for="Descripcion">Descripción</label>
+                <input type="text" class="form-control" id="Descripcion" name="Descripcion" value="@Model.Sucursal.Descripcion" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Direccion">Dirección</label>
+                <input type="text" class="form-control" id="Direccion" name="Direccion" value="@Model.Sucursal.Direccion" required />
+            </div>
+
+            <div class="form-group">
+                <label for="Identificacion">Identificación</label>
+                <input type="text" class="form-control" id="Identificacion" name="Identificacion" value="@Model.Sucursal.Identificacion" required />
+            </div>
+
+            <div class="form-group">
+                <label for="IdMoneda">Moneda</label>
+                <select class="form-control" id="IdMoneda" name="IdMoneda" asp-items="Model.Monedas" required>
+                    <option value="">Seleccione una moneda</option>
+                </select>
+            </div>
+
+
+            <button type="submit" class="btn btn-success" asp-route-id="@Model.Sucursal.IdSucursal">Guardar Cambios</button>
+            <a asp-controller="Sucursal" asp-action="Index" class="btn btn-secondary">Cancelar</a>
+        </form>
+    </div>
+</div>

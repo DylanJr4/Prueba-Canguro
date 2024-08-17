@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CanguroDTOs.Shared.DTOs.SucursalDTO>
+
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h2>Lista de Sucursales</h2>
+
+        <!-- Botón para agregar nuevas sucursales (opcional) -->
+        <a asp-controller="Sucursal" asp-action="Create" class="btn btn-success mb-3">Nueva Sucursal</a>
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Descripción</th>
+                    <th>Dirección</th>
+                    <th>Identificación</th>
+                    <th>Fecha de Creación</th>
+                    <th>Moneda</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model == null || !Model.Any())
+                {
+                    <tr>
+                        <td colspan="7">No se encontraron sucursales.</td>
+                    </tr>
+                }
+                else
+                {
+                    @foreach (var sucursal in Model)
+                    {
+                        <tr>
+                            
+                            <td>@sucursal.Descripcion</td>
+                            <td>@sucursal.Direccion</td>
+                            <td>@sucursal.Identificacion</td>
+                            <td>@(sucursal.FechaCreacion.HasValue ? sucursal.FechaCreacion.Value.ToString("dd/MM/yyyy") : "Fecha no disponible")</td>
+                            <td>@sucursal.NombreMoneda</td>
+                            <td style="align-content: center;">
+                                <a asp-controller="Sucursal" asp-action="Edit" asp-route-id="@sucursal.IdSucursal" class="btn btn-primary mb-3"> Editar </a>
+                                <form asp-controller="Sucursal" asp-action="Delete" asp-route-id="@sucursal.IdSucursal" method="post" style="display:inline;">
+                                    @Html.AntiForgeryToken()
+                                    <button type="submit" class="btn btn-danger mb-3" onclick="return Confirmar()">Eliminar</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function Confirmar() {
+            return confirm("¿Está seguro de eliminar esta sucursal?");
+        }
+    </script>
+}

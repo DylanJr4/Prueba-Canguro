@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanguroAPI.Server", "CanguroAPI\CanguroAPI.Server.csproj", "{9085A19D-D144-44DB-B5B9-EAFBF8EF64D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanguroDTOs.Shared", "CanguroDTOs.Shared\CanguroDTOs.Shared.csproj", "{CC94B80E-DD05-4E45-888E-7DDC7942F2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanguroCRUD.Client", "CanguroCRUD.Client\CanguroCRUD.Client.csproj", "{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9085A19D-D144-44DB-B5B9-EAFBF8EF64D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9085A19D-D144-44DB-B5B9-EAFBF8EF64D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9085A19D-D144-44DB-B5B9-EAFBF8EF64D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9085A19D-D144-44DB-B5B9-EAFBF8EF64D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC94B80E-DD05-4E45-888E-7DDC7942F2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC94B80E-DD05-4E45-888E-7DDC7942F2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC94B80E-DD05-4E45-888E-7DDC7942F2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC94B80E-DD05-4E45-888E-7DDC7942F2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99AE10D-0B18-49FB-8DAA-4BCF88C32A28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97077956-6D6E-4A41-894D-96F619C1075B}
+	EndGlobalSection
+EndGlobal

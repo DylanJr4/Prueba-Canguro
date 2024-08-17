@@ -1,0 +1,22 @@
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.deps.json
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.dll
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.pdb
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.AssemblyInfoInputs.cache
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.AssemblyInfo.cs
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.csproj.CoreCompileInputs.cache
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.dll
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\refint\CanguroDTOs.Shared.dll
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.pdb
+C:\Users\dylan\source\repos\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\ref\CanguroDTOs.Shared.dll
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.deps.json
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.dll
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\bin\Debug\net8.0\CanguroDTOs.Shared.pdb
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.AssemblyInfoInputs.cache
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.AssemblyInfo.cs
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.csproj.CoreCompileInputs.cache
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.dll
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\refint\CanguroDTOs.Shared.dll
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\CanguroDTOs.Shared.pdb
+D:\DJR DEV\Prueba Tecnica Canguro\CanguroAPI\CanguroDTOs.Shared\obj\Debug\net8.0\ref\CanguroDTOs.Shared.dll

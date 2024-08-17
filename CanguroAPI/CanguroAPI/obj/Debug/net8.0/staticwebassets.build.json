@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DPq3Wjcp4zgtFT4g++VvKR0y7Av0SGED+O7eYB13GvE=",
+  "Source": "CanguroAPI.Server",
+  "BasePath": "_content/CanguroAPI.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
